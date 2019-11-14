@@ -17,3 +17,11 @@ type:
 ```py --version```
 
 ```pip install pandas```
+
+```cd spreadsheet_script_IMI/```
+
+```ls```
+    [lists files in the directory]
+    
+```py merge_csv.py [input file path].csv```
+    [uses input file name to write local spreadsheet]
